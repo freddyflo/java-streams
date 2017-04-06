@@ -1,2 +1,2 @@
 # Java Streams
-Tutorials on JAVA STREAMS
+JAVA STREAM exercises
